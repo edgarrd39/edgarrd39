@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @edgarrd39
 - 👀 I’m interested in IOT , BlockChain
-- 🌱 I’m currently learning Python and C
+- 🌱 I’m currently learning Python C and Java 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
